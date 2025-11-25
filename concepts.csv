@@ -1,6 +1,0 @@
-id;type;label;system;domain;icd10;icd11;snomed;atc;tags
-DX-000001;Disease;Ischemic stroke;Neuro;Stroke;I63;8B10.0;;;stroke|ischemic|neuro
-DX-000002;Disease;Atrial fibrillation;Cardio;Arrhythmia;I48;;;;cardio|arrhythmia|af
-DX-000003;Disease;STEMI, anterior wall;Cardio;Ischemic heart disease;I21.0;;;;cardio|mi|stemi|anterior
-DR-000001;Drug;Apixaban;Cardio;Anticoagulant;;;;B01AF02;cardio|anticoagulant|noac
-SC-000001;Score;CHA2DS2-VASc;Cardio;Risk score;;;;;cardio|score|stroke_risk
