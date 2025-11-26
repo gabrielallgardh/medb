@@ -1,37 +1,37 @@
-concept-type_id	concept-type_label	concept-type_descr
-SX	symptoms	
-DX	diagnosis	
-IX	investigation	
-ANA	analyte	what you measure and what is considered a normal result
-FIND	finding	
-SCOR	score	interpretation, prognostization, cdm
-INT	intervention/procedure	
-CHEM	chemical-substance	endogenous substances including proteins, active pharmaceutical ingredient
-DRG	drug-product	
-ANAT	anatomical-site	
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+concept-type_id	concept-type_label	concept-type_descr	concept-type_epistem
+SX	symptoms	phenomenological signs of potential illness	testimony
+DX	diagnosis	label for communication and management	hypothesis
+IX	investigation	method of generating findings	
+ANA	analyte	measurable quantity	measurement through technique
+FIND	finding	assertions guiding decision making	observation, examination, measurement
+CDSS	clinical-decision-support-systems	decision making instrumets, scoring systems	
+INT	intervention/procedure	proximal action of changing outcome probalbility distribution	links decision to outcome
+CHEM	chemical-substance	endogenous substances, proteins, active ingredients	
+DRG	drug-product	formula intended for administration	
+ANAT	anatomical-site	region on the statistical atlas of the human body	spatial-region
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
