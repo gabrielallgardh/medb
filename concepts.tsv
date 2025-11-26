@@ -1,7 +1,37 @@
-"concept no	;"
-"1	;jag"	 geter	 gar	fd	fd
-"2	;"
-"3	;"
-"4	;"
-"5	;"
-"6	;"
+concept-type_id	concept-type_label	concept-type_descr
+SX	symptoms	
+DX	diagnosis	
+IX	investigation	
+ANA	analyte	what you measure and what is considered a normal result
+FIND	finding	
+SCOR	score	interpretation, prognostization, cdm
+INT	intervention/procedure	
+CHEM	chemical-substance	endogenous substances including proteins, active pharmaceutical ingredient
+DRG	drug-product	
+ANAT	anatomical-site	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
