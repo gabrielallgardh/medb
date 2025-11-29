@@ -1,0 +1,104 @@
+concept_id	preferred term	
+STRUC0001	corpus humanum	
+STRUC0002	partes corporis humani	
+STRUC0003	caput	
+STRUC0004	pars neurocranialis capitis	
+STRUC0005	frons	
+STRUC0006	occiput	
+STRUC0007	tempus	
+STRUC0008	auricula	
+STRUC0009	lobus auriculae	
+STRUC0010	helix	
+STRUC0011	crus helicis	
+STRUC0012	antihelix	
+STRUC0013	crura antihelicis	
+STRUC0014	antitragus	
+STRUC0015	tragus	
+STRUC0016	collum	
+STRUC0017	truncus	
+STRUC0018	thorax	
+STRUC0019	abdomen	
+STRUC0020	pelvis	
+STRUC0021	pars anterior trunci	
+STRUC0022	paries anterolateralis thoracis	
+STRUC0023	paries anterolateralis abdominis	
+STRUC0024	dorsum	
+STRUC0025	dorsum thoracis	
+STRUC0026	dorsum abdominis	
+STRUC0027	membrum superius	
+STRUC0028	omos	
+STRUC0029	axilla	
+STRUC0030	plica axillaris anterior	
+STRUC0031	plica axillaris posterior	
+STRUC0032	pars libera membri superioris	
+STRUC0033	brachium	
+STRUC0034	cubitus	
+STRUC0035	antebrachium	
+STRUC0036	antebrachium	
+STRUC0037	carpus	
+STRUC0038	manus	
+STRUC0039	metacarpus	
+STRUC0040	digiti manus	
+STRUC0041	pollex	
+STRUC0042	index	
+STRUC0043	digitus medius manus	
+STRUC0044	digitus anularis	
+STRUC0045	digitus minimus manus	
+STRUC0046	membrum inferius	
+STRUC0047	natis	
+STRUC0048	coxa	
+STRUC0049	pars libera membri inferioris	
+STRUC0050	femur	
+STRUC0051	genu	
+STRUC0052	poples	
+STRUC0053	crus	
+STRUC0054	sura	
+STRUC0055	talus	
+STRUC0056	pes	
+STRUC0057	calx	
+STRUC0058	pars media pedis	
+STRUC0059	metatarsus	
+STRUC0060	digiti pedis	
+STRUC0061	hallux	
+STRUC0062	digitus secundus pedis	
+STRUC0063	digitus tertius pedis	
+STRUC0064	digitus quartus pedis	
+STRUC0065	digitus minimus pedis	
+STRUC0066	systema musculoskeletalia	
+STRUC0067	systema skeletale	
+STRUC0068	skeleton axiale	
+STRUC0069	neurocranium	
+STRUC0070	viscerocranium	
+STRUC0071	ossa faciei	
+STRUC0072	chondrocranium	
+STRUC0073	desmocranium	
+STRUC0074	skeleton appendiculare	
+STRUC0075	skeleton membrorum superiorum	
+STRUC0076	cingulum pectorale	
+STRUC0077	skeleton partis liberae mempri superioris	
+STRUC0078	skeleton membrorum inferiorum	
+STRUC0079	cingulum pelvicum	
+STRUC0080	skeleton partis liberae membri inferioris	
+STRUC0081	ossa	
+STRUC0082	os membranaceum	
+STRUC0083	os endochondrale	
+STRUC0084	os longum	
+STRUC0085	os breve	
+STRUC0086	os planum	
+STRUC0087	os irregulare	
+STRUC0088	os pneumaticum	
+STRUC0089	os sesamoideum	
+STRUCT0090	os accessorium	
+STRUCT0091	os supernumerarium	
+STRUCT0092	pericranium	
+STRUCT0093	frons cranii	
+STRUCT0094	occiput cranii	
+STRUCT0095	arcus zygomaticus	
+STRUCT0096	fonticulus anterior	
+STRUCT0097	fonticulus posterior	
+STRUCT0098	fonticulus sphenoideus	
+STRUCT0099	fonticulus mastoideus	
+STRUCT0100	calvaria	
+		
+		
+		
