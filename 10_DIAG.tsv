@@ -1,0 +1,78 @@
+primary_cluster_id			canoical-diagnoses			preferred-term	ICD-11												
+C0_CONGEN			NPF / NEC / klinisk-genetik			diseases of the nervous system	08												
+C1_CARDIOMET			HT / DM / obesitas / IHD / stroke / CKD / MI / BPH / PCOS			headache disorders	08												
+	11_cerebrovascular-diseases																		
+		11.00 tia																	
+		11.02 amaurosis fugax																	
+		11.04 tia, recidiverande																	
+		11.06 tia i karotisområdet																	
+		11.08 hemisfäriskt karotissyndrom																	
+		11.10 tia i vertebrobasilarisområdet																	
+		11.12 arteria-basilaris-syndrom																	
+		11.14 tia efter subaraknoidalblödning																	
+																			
+		11.20 ischemisk stroke / stabilt plack																	
+		11.24 ischemisk stroke / plackruptur / artär-artärembolisering																	
+		11.28 ischemisk stroke / plackruptur / isolerad trombotisering																	
+		11.30 ischemisk stroke / kardioembolism																	
+		11.32 ischemisk stroke / dissektion																	
+		11.36 ischemisk stroke / hyperkoagulation																	
+		11.40 ischemisk stroke / sinustrombos																	
+		11.42 tyst cerebral infarkt																	
+		11.46 ischemisk stroke / kryptogen																	
+		11.48 subclavian steal syndrome																	
+		11.50 migräninducerad stroke																	
+		11.52 moyamoyasyndrom																	
+	12_stroke-mimics																		
+		12.00 akut konfusion																	
+		12.02 hjärnabscess																	
+		12.04 hjärntumör																	
+		12.06 demens																	
+		12.08 epiduralblödning																	
+		12.10 episodisk ataxi																	
+		12.12 familiär hemiplegisk migrän																	
+		12.14 hypoglykemi																	
+		12.16 hypotoni																	
+		12.18 migrän																	
+		12.20 multipel skleros																	
+		12.22 osmotisk demyelinering																	
+		12.24 																	
+																			
+																			
+																			
+																			
+	13_coronary-artery-diseases																		
+	15_congestive-heart-failure																		
+	17_renal-diseases																		
+	19_insulin-diseases																		
+																			
+																			
+																			
+C2_PSYCH			MDD / schizofreni / SUD / PD / ångest / S																
+C3_MSK-PAIN			artros / lumbago / SVBK																
+C4_RESP			KOL / konios				8												
+C5_FRAILTY			demens / fall / frailty																
+C6_AUTOIMMUNE			RA / 				8												
+C7_CANCER			MM / 				8												
+C8_INFECTION																			
+C9_TRAUMA			intox / 																
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			

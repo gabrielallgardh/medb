@@ -1,0 +1,256 @@
+ATC_lvl-1	ATC_lvl-2	ATC_lvl-3	ATC_lvl-4	ATC_lvl-5	ATC_lvl-5_label	active-moiety	API	dosage-form	strength	strength-basis	product-name	mah_2025
+A	A01	A01A	A01AA	A01AA01	natriumflourid	flourid	natriumflourid	munsköljvätska	0,2 %		Dentan	cooper consumer health
+A	A01	A01A	A01AA	A01AA01	natriumflourid	flourid	natriumflourid	munsköljvätska	0,05 %		Dentan	cooper consumer health
+A	A01	A01A	A01AA	A01AA30	natriumflourid, kombinationer	äppelsyra + flourid	äppelsyra + natriumflourid	sugtablett	28,6 mg + 0,25 mg	moiety	Xerodent	karo healthcare
+A	A01	A01A	A01AB	A01AB03	klorhexidin	klorhexidin	klorhexidinglukonat	munhålegel	1 %		Corsodyl	haleon denmark
+A	A01	A01A	A01AB	A01AB03	klorhexidin	klorhexidin	klorhexidinglukonat	munhålelösning	2 mg/ml		Corsodyl	haleon denmark
+A	A02	A02A	A02AD	A02AD01	aluminium-, kalcium- och magnesiumsalter	kalciumjon + magnesiumjon	kalciumkarbonat + magnesiumhydroxid	tuggtablett	449 mg + 104 mg		Novalucol	cooper consumer health
+A	A02	A02A	A02AH			vätekarbonat	natriumvätekarbonat	pulver till oral lösning i dospåse	2,13 g		Samarin	orkla care sweden
+A	A02	A02B	A02BA	A02BA03	famotidin	famotidin	famotidin	tablett	10 mg		Pepcid	mcneil sweden
+A	A02	A02B	A02BB	A02BB01	misoprostol	misoprostol	misoprostol	tablett	0,2 mg		Cytotec	pfizer
+A	A02	A02B	A02BC	A02BC01	omeprazol	omeprazol	omeprazolmagnesium	enterotablett	10 mg	moiety	Losec	cheplapharm arzneimittel
+A	A02	A02B	A02BC	A02BC01	omeprazol	omeprazol	omeprazolmagnesium	enterotablett	20 mg	moiety	Losec	cheplapharm arzneimittel
+A	A02	A02B	A02BC	A02BC01	omeprazol	omeprazol	omeprazol	enterokapsel, hård	10 mg	api	Omestad / generika	stada nordic
+A	A02	A02B	A02BC	A02BC01	omeprazol	omeprazol	omeprazol	enterokapsel, hård	20 mg	api	Omestad / generika	stada nordic
+A	A02	A02B	A02BC	A02BC01	omeprazol	omeprazol	omeprazol	enterokapsel, hård	40 mg	api	Omestad / generika	stada nordic
+A	A02	A02B	A02BC	A02BC01	omeprazol	omeprazol	omeprazol	enterotablett	20 mg		omeprazol Bluefish	bluefish pharmaceuticals
+A	A02	A02B	A02BC	A02BC02	pantoprazol	pantoprazol	pantoprazolnatrium	pulver till injektionsvätska	20 mg		generika	
+A	A02	A02B	A02BC	A02BC02	pantoprazol	pantoprazol	pantoprazolnatrium	pulver till injektionsvätska	40 mg	moiety	Pantoloc / generika	takeda pharma
+A	A02	A02B	A02BC	A02BC02	pantoprazol	pantoprazol	pantoprazolnatrium	enterotablett	20 mg	moiety	generika	
+A	A02	A02B	A02BC	A02BC02	pantoprazol	pantoprazol	pantoprazolnatrium	enterotablett	40 mg	moiety	generika	
+A	A02	A02B	A02BC	A02BC05	esomeprazol	esomeprazol	esomeprazolmagnesium	pulver till injektionsvätska	40 mg	moiety	Nexium / generika	grunenthal sweden
+A	A02	A02B	A02BC	A02BC05	esomeprazol	esomeprazol	esomeprazolmagnesium	enterotablett	20 mg	moiety	Nexium / generika	grunenthal sweden
+A	A02	A02B	A02BC	A02BC05	esomeprazol	esomeprazol	esomeprazolmagnesium	enterotablett	40 mg	moiety	Nexium / generika	grunenthal sweden
+A	A02	A02B	A02BC	A02BC05	esomeprazol	esomeprazol	esomeprazolmagnesium	enterokapsel, hård	20 mg	moiety	generika	
+A	A02	A02B	A02BC	A02BC05	esomeprazol	esomeprazol	esomeprazolmagnesium	enterokapsel, hård	40 mg	moiety	generika	
+A	A02	A02B	A02BC	A02BC05	esomeprazol	esomeprazol	esomeprazolmagnesium	enterogranulat till oral suspension	10 mg	moiety	Nexium / generika	grunenthal sweden
+A	A02	A02B	A02BX	A02BX13	alginsyra	alginsyra	natriumalginat, aluminiumoxid, kalciumkarbonat, natriumvätekarbonat	oral suspension	50 mg + 15 mg + 15 mg + 17 mg		Gaviscon	nordic drugs
+A	A03	A03A	A03AB	A03AB02	glykopyrroniumbromid	glykopyrronium	glykopyrroniumbromid	injektionsvätska	0,2 mg/ml		Robinul / generika	viatris
+A	A03	A03A	A03AX	A03AX13	silikoner	dimetikon	simetikon	kapsel, mjuk	100 mg	moiety	generika	
+A	A03	A03A	A03AX	A03AX13	silikoner	dimetikon	simetikon	kapsel, mjuk	200 mg	moiety	generika	
+A	A03	A03B	A03BA	A03BA01	atropin	atropin	atropinsulfat	injektionsvätska	0,1 mg/ml		generika	
+A	A03	A03B	A03BA	A03BA01	atropin	atropin	atropinsulfat	injektionsvätska	0,2 mg/ml		generika	
+A	A03	A03B	A03BA	A03BA01	atropin	atropin	atropinsulfat	injektionsvätska	0,5 mg/ml		generika	
+A	A03	A03B	A03BB	A03BB01	butylskopolamin	hyoscinbutylbromid	hyoscinbutylbromid	injektionsvätska	20 mg/ml		Buscopan / generika	stada nordic
+A	A03	A03F	A03FA	A03FA01	metoklopramid	metoklopramid	metoklopramidhydroklorid	injektionsvätska	5 mg/ml		Primperan	sanofi
+A	A03	A03F	A03FA	A03FA01	metoklopramid	metoklopramid	metoklopramidhydroklorid	tablett	10 mg		generika	
+A	A03	A03F	A03FA	A03FA01	metoklopramid	metoklopramid	metoklopramidhydroklorid	filmdragerad tablett	10 mg		generika	
+A	A04	A04A	A04AA	A04AA01	ondansetron	ondansetron	ondansetronhydroklorid	filmdragerad tablett	4 mg	moiety	Zofran / generika	sandoz
+A	A04	A04A	A04AA	A04AA01	ondansetron	ondansetron	ondansetronhydroklorid	filmdragerad tablett	8 mg	moiety	Zofran / generika	sandoz
+A	A04	A04A	A04AA	A04AA01	ondansetron	ondansetron	ondansetronhydroklorid	munsönderfallande tablett	4 mg		generika	
+A	A04	A04A	A04AA	A04AA01	ondansetron	ondansetron	ondansetronhydroklorid	munsönderfallande tablett	8 mg		generika	
+A	A04	A04A	A04AA	A04AA01	ondansetron	ondansetron	ondansetronhydroklorid	frystorkad tablett	4 mg	moiety	Zofran	sandoz
+A	A04	A04A	A04AA	A04AA01	ondansetron	ondansetron	ondansetronhydroklorid	frystorkad tablett	8 mg	moiety	Zofran	sandoz
+A	A04	A04A	A04AA	A04AA01	ondansetron	ondansetron	ondansetronhydroklorid	oral lösning	0,8 mg/ml	moiety	Zofran	sandoz
+A	A04	A04A	A04AA	A04AA01	ondansetron	ondansetron	ondansetronhydroklorid	injektionsvätska	2 mg/ml	moiety	generika	
+A	A06	A06A	A06AB	A06AB02	bisakodyl	bisakodyl	bisakodyl	enterotablett	5 mg		Dulcolax	stada nordic
+A	A06	A06A	A06AB	A06AB02	bisakodyl	bisakodyl	bisakodyl	enterotablett	10 mg		Dulcolax	stada nordic
+A	A06	A06A	A06AB	A06AB08	natriumpikosulfat	natriumpikosulfat	natriumpikosulfat (monohydrat)	orala droppar	7,5 mg/ml		Laxoberal / Cilaxoral	stada nordic / nordic drugs
+A	A06	A06A	A06AC	A06AC01	loppfrö och vitt loppfrö	plantago ovata	plantago ovata	granulat	610 mg/g		Vi-Siblin	cooper consumer health
+A	A06	A06A	A06AC	A06AC01	loppfrö och vitt loppfrö	plantago ovata	plantago ovata	granulat	880 mg/g		Vi-Siblin S	cooper consumer health
+A	A06	A06A	A06AC	A06AC03	sterkuliagummi	sterkuliagummi	sterkuliagummi	granulat	4 g		Inolaxol	cooper consumer health
+A	A06	A06A	A06AD	A06AD11	laktulos	laktulos	laktulos	oral lösning	670 mg/ml		Duphalac / generika	cooper consumer health
+A	A06	A06A	A06AD	A06AD15	makrogol	makrogol	makrogol	pulver till oral lösning	10 g		Forlax	navamedic
+A	A06	A06A	A06AD	A06AD15	makrogol	makrogol	makrogol	pulver till oral lösning	4 g		Forlax Junior	navamedic
+A	A06	A06A	A06AD	A06AD65	makrogol, kombinationer	makrogol	makrogol + natriumklorid + natriumvätekarbonat + kaliumklorid	pulver till oral lösning	13,125 g + 350,7 mg + 178,5 mg + 46,6 mg		Lacrofarm	orifarm generics
+A	A06	A06A	A06AD	A06AD65	makrogol, kombinationer	makrogol	makrogol + natriumklorid + natriumvätekarbonat + kaliumklorid	pulver till oral lösning	13,125 g + 351 mg + 178 mg + 47 mg		Movicol	norgine
+A	A06	A06A	A06AG	A06AG10	dokusatnatrium, inkl. kombinationer	dokusat + sorbitol	dokusatnatrium + sorbitol	rektallösning	1 g + 250 mg		Klyx	ferring läkemedel
+A	A06	A06A	A06AG	A06AG11	natriumlaurylsulfoacetat, inkl kombinationer	natriumcitrat + natriumlaurylsulfoacetat	natriumcitrat + natriumlaurylsulfoacetat	rektallösning	90 mg + 9 mg		Microlax	mcneil sweden
+A	A07	A07A	A07AA	A07AA02	nystatin	nystatin	nystatin	oral suspension	100000 ie/ml		Nystimex / generika	astimex pharma
+A	A07	A07A	A07AA	A07AA09	vankomycin	vancomycin	vancomycinhydroklorid	kapsel, hård	125 mg	moiety	Vancocin / generika	stada nordic
+A	A07	A07A	A07AA	A07AA09	vankomycin	vancomycin	vancomycinhydroklorid	kapsel, hård	250 mg	moiety	generika	
+A	A07	A07A	A07AA	A07AA11	rifamixin	rifamixin	rifamixin	filmdragerad tablett	550 mg	moiety	Xifaxan	norgine
+A	A07	A07B	A07BA	A07BA01	medicinskt kol	aktivt kol	aktivt kol	granulat till oral suspension	81,3 g		Carbomix	abboxia
+A	A07	A07D	A07DA	A07DA03	loperamid	loperamid	loperamidhydroklorid	filmdragerad tablett	2 mg		Dimor	nordic drugs
+A	A07	A07D	A07DA	A07DA03	loperamid	loperamid	loperamidhydroklorid	tablett	2 mg		Imodium	mcneil sweden
+A	A07	A07D	A07DA	A07DA03	loperamid	loperamid	loperamidhydroklorid	munsönderfallande tablett	2 mg		Imodium	mcneil sweden
+A	A07	A07E	A07EA	A07EA01	prednisolon	prednisolon	prednisolonnatriumfosfat	rektallösning	31,25 mg		prednisolon Evolan	evolan pharma
+A	A07	A07E	A07EA	A07EA06	budesonid	budesonid	budesonid	enterokapsel, hård	3 mg		Budenofalk	vifor pharma nordiska
+A	A07	A07E	A07EA	A07EA06	budesonid	budesonid	budesonid	enterogranulat	9 mg		Budenofalk	vifor pharma nordiska
+A	A07	A07E	A07EA	A07EA06	budesonid	budesonid	budesonid	rektalskum	2 mg/dos		Budenofalk	vifor pharma nordiska
+A	A07	A07E	A07EA	A07EA06	budesonid	budesonid	budesonid	suppositorium	4 mg		Budenofalk	vifor pharma nordiska
+A	A07	A07E	A07EB	A07EB01	natriumkromoglikat	kromoglicinsyra	natirumkromoglikat	oral lösning	20 mg/ml		Lomudal G.I.	stada nordic
+A	A07	A07E	A07EC	A07EC01	sulfasalazin	sulfasalazin	sulfasalazin	tablett	500 mg		Salazopyrin	pfizer
+A	A07	A07E	A07EC	A07EC01	sulfasalazin	sulfasalazin	sulfasalazin	enterotablett	500 mg		Salazopyrin EN / generika	pfizer
+A	A07	A07E	A07EC	A07EC02	mesalazin	mesalazin	mesalazin	enterotablett	400 mg		Asacol	tillotts pharma
+A	A07	A07E	A07EC	A07EC02	mesalazin	mesalazin	mesalazin	enterotablett	800 mg		Asacol	tillotts pharma
+A	A07	A07E	A07EC	A07EC02	mesalazin	mesalazin	mesalazin	rektalsuspension	1 g		Asacol	tillotts pharma
+A	A07	A07E	A07EC	A07EC02	mesalazin	mesalazin	mesalazin	suppositorium	500 mg		Asacol	tillotts pharma
+A	A07	A07E	A07EC	A07EC02	mesalazin	mesalazin	mesalazin	suppositorium	1 g		Asacol	tillotts pharma
+A	A07	A07E	A07EC	A07EC02	mesalazin	mesalazin	mesalazin	tablett med modifierad frisättning	1600 mg		Asacol	tillotts pharma
+A	A07	A07E	A07EC	A07EC02	mesalazin	mesalazin	mesalazin	depottablett	500 mg		Pentasa	ferring läkemedel
+A	A07	A07E	A07EC	A07EC02	mesalazin	mesalazin	mesalazin	depottablett	1 g		Pentasa	ferring läkemedel
+A	A07	A07E	A07EC	A07EC02	mesalazin	mesalazin	mesalazin	depotgranulat	1500 mg		Salofalk	vifor pharma
+A	A07	A07E	A07EC	A07EC02	mesalazin	mesalazin	mesalazin	depotgranulat	3000 mg		Salofalk	vifor pharma
+A	A09	A09A	A09AA	A09AA02	multienzymer (lipas, proteas m.fl.)	lipas, amylas, proteas (svinpankreas)	pankreaspulver	enterokapsel, hård	150 mg		Creon 10000	viatris
+A	A09	A09A	A09AA	A09AA02	multienzymer (lipas, proteas m.fl.)	lipas, amylas, proteas (svinpankreas)	pankreaspulver	enterokapsel, hård	300 mg		Creon 25000	viatris
+A	A09	A09A	A09AA	A09AA02	multienzymer (lipas, proteas m.fl.)	lipas, amylas, proteas (svinpankreas)	pankreaspulver	enterokapsel, hård	420 mg		Creon 35000	viatris
+A	A10	A10A	A10AB	A10AB01	insulin (humant)	insulin, human	insulin, humant	injektionsvätska	100 ie/ml		Humulin Regular	eli lilly sweden
+A	A10	A10A	A10AB	A10AB04	insulin, lispro	insulin, lispro	insulin, lispro	injektionsvätska	100 ie/ml		Humalog / generika	eli lilly sweden
+A	A10	A10A	A10AB	A10AB04	insulin, lispro	insulin, lispro	insulin, lispro	injektionsvätska i förfylld injektionspenna	100 ie/ml		Humalog KwikPen / generika	eli lilly sweden
+A	A10	A10A	A10AB	A10AB05	insulin, aspart	insulin, aspart	insulin, aspart	injektionsvätska	100 ie/ml		NovoRapid / Fiasp / generika	novo nordisk
+A	A10	A10A	A10AB	A10AB05	insulin, aspart	insulin, aspart	insulin, aspart	injektionsvätska i förfylld injektionspenna	100 ie/ml		NovoRapid FlexPen / generika	novo nordisk
+A	A10	A10A	A10AC	A10AC01	insulin (humant)	insulin, humant, isofan	insulin, humant, isofan	injektionsvätska	40 ie/ml		Insulatard	novo nordisk
+A	A10	A10A	A10AC	A10AC01	insulin (humant)	insulin, humant, isofan	insulin, humant, isofan	injektionsvätska	100 ie/ml		Humulin NPH / Insulatard	eli lilly sweden / novo nordisk
+A	A10	A10A	A10AC	A10AC01	insulin (humant)	insulin, humant, isofan	insulin, humant, isofan	injektionsvätska i förfylld injektionspenna	100 ie/ml		Humulin NPH KwikPen / Insulatard FlexPen	eli lilly sweden / novo nordisk
+A	A10	A10A	A10AE	A10AE04	insulin, glargin	insulin, glargin	insulin, glargin	injektionsvätska	100 ie/ml		ABASAGLAR / Lantus / Toujeo	eli lilly sweden / sanofi
+A	A10	A10A	A10AE	A10AE04	insulin, glargin	insulin, glargin	insulin, glargin	injektionsvätska i förfylld injektionspenna	100 ie/ml		ABASAGLAR KwikPen / Lantus SoloStar	eli lilly sweden / sanofi
+A	A10	A10A	A10AE	A10AE04	insulin, glargin	insulin, glargin	insulin, glargin	injektionsvätska i förfylld injektionspenna	300 ie/ml		Tojueo SoloStar	sanofi
+A	A10	A10A	A10AE	A10AE06	insulin, degludek	insulin, degludek	insulin, degludek	injektionsvätska i förfylld injektionspenna	100 ie/ml		Tresiba FlexTouch	novo nordisk
+A	A10	A10A	A10AE	A10AE06	insulin, degludek	insulin, degludek	insulin, degludek	injektionsvätska i förfylld injektionspenna	200 ie/ml		Tresiba FlexTouch	novo nordisk
+A	A10	A10A	A10AE	A10AE56	insulin, degludek och liraglutid	insulin, degludek + liraglutid	insulin, degludek + liraglutid	injektionsvätska i förfylld injektionspenna	100 ie/ml + 3,6 mg/ml		Xultophy	novo nordisk
+A	A10	A10B	A10BA	A10BA02	metformin	metformin	metforminhydroklorid	filmdragerad tablett	500 mg	api	Glucophage / generika	merck
+A	A10	A10B	A10BA	A10BA02	metformin	metformin	metforminhydroklorid	filmdragerad tablett	850 mg	api	Glucophage / generika	merck
+A	A10	A10B	A10BA	A10BA02	metformin	metformin	metforminhydroklorid	filmdragerad tablett	1000 mg	api	Glucophage / generika	merck
+A	A10	A10B	A10BH	A10BH01	sitagliptin	sitagliptin	sitagliptinfosfat	filmdragerad tablett	25 mg	moiety	Januvia / generika	merck
+A	A10	A10B	A10BH	A10BH01	sitagliptin	sitagliptin	sitagliptinfosfat	filmdragerad tablett	50 mg	moiety	Januvia / generika	merck
+A	A10	A10B	A10BH	A10BH01	sitagliptin	sitagliptin	sitagliptinfosfat	filmdragerad tablett	100 mg	moiety	Januvia / generika	merck
+A	A10	A10B	A10BH	A10BH05	linagliptin	sitagliptin	linagliptin	filmdragerad tablett	5 mg	api	Trajenta / generika	boehringer ingelheim
+A	A10	A10B	A10BJ	A10BJ06	semaglutid	semaglutid	semaglutid	tablett	3 mg	api	Rybelsus	novo nordisk
+A	A10	A10B	A10BJ	A10BJ06	semaglutid	semaglutid	semaglutid	tablett	7 mg	api	Rybelsus	novo nordisk
+A	A10	A10B	A10BJ	A10BJ06	semaglutid	semaglutid	semaglutid	tablett	14 mg	api	Rybelsus	novo nordisk
+A	A10	A10B	A10BJ	A10BJ06	semaglutid	semaglutid	semaglutid	injektionsvätska i förfylld injektionspenna	0,25 mg/dos	api	Ozempic	novo nordisk
+A	A10	A10B	A10BJ	A10BJ06	semaglutid	semaglutid	semaglutid	injektionsvätska i förfylld injektionspenna	0,5 mg/dos	api	Ozempic / Wegovy Flex Touch	novo nordisk
+A	A10	A10B	A10BJ	A10BJ06	semaglutid	semaglutid	semaglutid	injektionsvätska i förfylld injektionspenna	1 mg/dos	api	Ozempic	novo nordisk
+A	A10	A10B	A10BJ	A10BJ06	semaglutid	semaglutid	semaglutid	injektionsvätska i förfylld injektionspenna	1,7 mg/dos	api	Wegovy Flex Touch	novo nordisk
+A	A10	A10B	A10BJ	A10BJ06	semaglutid	semaglutid	semaglutid	injektionsvätska i förfylld injektionspenna	2 mg/dos	api	Ozempic	novo nordisk
+A	A10	A10B	A10BJ	A10BJ06	semaglutid	semaglutid	semaglutid	injektionsvätska i förfylld injektionspenna	2,4 mg/dos	api	Wegovy Flex Touch	novo nordisk
+A	A10	A10B	A10BK	A10BK01	dapagliflozin	dapagliflozin	dapagliflozinpropandiol	filmdragerad tablett	5 mg	moiety	Forxiga	astrazeneca
+A	A10	A10B	A10BK	A10BK01	dapagliflozin	dapagliflozin	dapagliflozinpropandiol	filmdragerad tablett	10 mg	moiety	Forxiga	astrazeneca
+A	A10	A10B	A10BK	A10BK03	empagliflozin	empagliflozin	empagliflozin	filmdragerad tablett	10 mg		Jardiance	boehringer ingelheim
+A	A10	A10B	A10BK	A10BK03	empagliflozin	empagliflozin	empagliflozin	filmdragerad tablett	25 mg		Jardiance	boehringer ingelheim
+A	A10	A10B	A10BX	A10BX02	repaglinid	repaglinid	repaglinid	tablett	0,5 mg		NovoNorm / generika	novo nordisk
+A	A10	A10B	A10BX	A10BX02	repaglinid	repaglinid	repaglinid	tablett	1 mg		NovoNorm / generika	novo nordisk
+A	A10	A10B	A10BX	A10BX02	repaglinid	repaglinid	repaglinid	tablett	2 mg		NovoNorm / generika	novo nordisk
+A	A10	A10B	A10BX	A10BX16	tirzepatid	tirzepatid	tirzepatid	injektionsvätska	2,5 mg/dos		Mounjaro	eli lilly
+A	A10	A10B	A10BX	A10BX16	tirzepatid	tirzepatid	tirzepatid	injektionsvätska	5 mg/dos		Mounjaro	eli lilly
+A	A10	A10B	A10BX	A10BX16	tirzepatid	tirzepatid	tirzepatid	injektionsvätska	7,5 mg/dos		Mounjaro	eli lilly
+A	A10	A10B	A10BX	A10BX16	tirzepatid	tirzepatid	tirzepatid	injektionsvätska	10 mg/dos		Mounjaro	eli lilly
+A	A10	A10B	A10BX	A10BX16	tirzepatid	tirzepatid	tirzepatid	injektionsvätska	12,5 mg/dos		Mounjaro	eli lilly
+A	A10	A10B	A10BX	A10BX16	tirzepatid	tirzepatid	tirzepatid	injektionsvätska	15 mg/dos		Mounjaro	eli lilly
+A	A10	A10B	A10BX	A10BX16	tirzepatid	tirzepatid	tirzepatid	injektionsvätska i förfylld injektionspenna	2,5 mg/dos		Mounjaro KwikPen	eli lilly
+A	A10	A10B	A10BX	A10BX16	tirzepatid	tirzepatid	tirzepatid	injektionsvätska i förfylld injektionspenna	5 mg/dos		Mounjaro KwikPen	eli lilly
+A	A10	A10B	A10BX	A10BX16	tirzepatid	tirzepatid	tirzepatid	injektionsvätska i förfylld injektionspenna	7,5 mg/dos		Mounjaro KwikPen	eli lilly
+A	A10	A10B	A10BX	A10BX16	tirzepatid	tirzepatid	tirzepatid	injektionsvätska i förfylld injektionspenna	10 mg/dos		Mounjaro KwikPen	eli lilly
+A	A10	A10B	A10BX	A10BX16	tirzepatid	tirzepatid	tirzepatid	injektionsvätska i förfylld injektionspenna	12,5 mg/dos		Mounjaro KwikPen	eli lilly
+A	A10	A10B	A10BX	A10BX16	tirzepatid	tirzepatid	tirzepatid	injektionsvätska i förfylld injektionspenna	15 mg/dos		Mounjaro KwikPen	eli lilly
+A	A11	A11C	A11CC	A11CC03	alfakalcidol	alfakalcidol	alfakalcidol	injektionsvätska	2 mikrog/ml		Etalpha	chepapharm
+A	A11	A11C	A11CC	A11CC03	alfakalcidol	alfakalcidol	alfakalcidol	kapsel, mjuk	0,25 mikrog		Etalpha / generika	chepapharm
+A	A11	A11C	A11CC	A11CC03	alfakalcidol	alfakalcidol	alfakalcidol	kapsel, mjuk	0,5 mikrog		Etalpha / generika	chepapharm
+A	A11	A11C	A11CC	A11CC03	alfakalcidol	alfakalcidol	alfakalcidol	orala droppar	2 mikrog/ml		Etalpha	chepapharm
+A	A11	A11C	A11CC	A11CC05	kolekalciferol	kolekalciferol	kolekalciferol	filmdragerad tablett	800 ie		Divifarm	orifarm generics
+A	A11	A11C	A11CC	A11CC05	kolekalciferol	kolekalciferol	kolekalciferol	filmdragerad tablett	1000 ie		Divifarm	orifarm generics
+A	A11	A11C	A11CC	A11CC05	kolekalciferol	kolekalciferol	kolekalciferol	filmdragerad tablett	2000 ie		Divifarm	orifarm generics
+A	A11	A11C	A11CC	A11CC05	kolekalciferol	kolekalciferol	kolekalciferol	filmdragerad tablett	7000 ie		Divifarm	orifarm generics
+A	A11	A11C	A11CC	A11CC05	kolekalciferol	kolekalciferol	kolekalciferol	filmdragerad tablett	30000 ie		Divifarm	orifarm generics
+A	A11	A11C	A11CC	A11CC05	kolekalciferol	kolekalciferol	kolekalciferol	tablett	800 ie		Divisun / generika	viatris
+A	A11	A11C	A11CC	A11CC05	kolekalciferol	kolekalciferol	kolekalciferol	tablett	2000 ie		Divisun / generika	viatris
+A	A11	A11C	A11CC	A11CC05	kolekalciferol	kolekalciferol	kolekalciferol	kapsel, mjuk	400 ie		Benferol	consilient health
+A	A11	A11C	A11CC	A11CC05	kolekalciferol	kolekalciferol	kolekalciferol	kapsel, mjuk	800 ie		Benferol / Detremin / Flutium / generika	consilient health / renapharma / stada nordic
+A	A11	A11C	A11CC	A11CC05	kolekalciferol	kolekalciferol	kolekalciferol	kapsel, mjuk	2000 ie		Detremin	renapharma
+A	A11	A11C	A11CC	A11CC05	kolekalciferol	kolekalciferol	kolekalciferol	kapsel, mjuk	5600 ie		Benferol / generika	consilient health
+A	A11	A11C	A11CC	A11CC05	kolekalciferol	kolekalciferol	kolekalciferol	kapsel, mjuk	25000 ie		Benferol / generika	consilient health
+A	A11	A11C	A11CC	A11CC05	kolekalciferol	kolekalciferol	kolekalciferol	kapsel, mjuk	50000 ie		Benferol	consilient health
+A	A11	A11C	A11CC	A11CC05	kolekalciferol	kolekalciferol	kolekalciferol	orala droppar	800 ie/droppe		Detremin / generika	renapharma
+A	A11	A11D	A11DA	A11DA01	tiamin (vitamin B1)	tiamin	tiaminhydroklorid	injektionsvätska	50 mg/ml	api	Bevione / generika	orifarm generics
+A	A11	A11D	A11DA	A11DA01	tiamin (vitamin B1)	tiamin	tiaminhydroklorid	injektionsvätska	125 mg/ml	api	generika	
+A	A11	A11E	A11EA			nikotinamind + pyridoxin + riboflavin + tiamin	nikotinamid + pyridoxinhydroklorid + riboflavin + tiaminnitrat	filmdragerad tablett	125 mg + 15 mg + 15 mg + 15 mg	api	Beviplex forte	circius pharma
+A	A11	A11E	A11EA			nikotinamind + pyridoxin + riboflavin + tiamin + cyanokobalamin + folsyra + pantotensyra	nikotinamid + pyridoxinhydroklorid + riboflavin + tiaminnitrat + folsyrahydrat + kalciumpantotenat + cyanokobalamin	filmdragerad tablett	125 mg + 15 mg + 15 mg + 15 mg + 5 mikrog + 0,2 mg + 32,7 mg	api	Beviplex Comp	circius pharma
+A	A12	A12A	A12AA	A12AA04	kalcium	kalciumjon	kalciumkarbonat	filmdragerad tablett	500 mg	moiety	Kalcipos	viatris
+A	A12	A12A	A12AA	A12AA04	kalcium	kalciumjon	kalciumkarbonat	tuggtablett	500 mg	moiety	Kalcitugg	orifarm generics
+A	A12	A12A	A12AA	A12AA04	kalcium	kalciumjon	kalciumkarbonat	tuggtablett	1 g	moiety	Kalcitugg	orifarm generics
+A	A12	A12A	A12AX			kalciumjon + kolekalciferol	kalciumkarbonat + kolekalciferol	filmdragerad tablett	500 mg + 200 ie	moiety	Kalcipos-D mite	viatris
+A	A12	A12A	A12AX			kalciumjon + kolekalciferol	kalciumkarbonat + kolekalciferol	filmdragerad tablett	500 mg + 400 ie	moiety	Kalcipos-D / D-Calsor / Recikalc-D / generika	viatris / orion pharma
+A	A12	A12A	A12AX			kalciumjon + kolekalciferol	kalciumkarbonat + kolekalciferol	filmdragerad tablett	500 mg + 800 ie	moiety	Kalcipos-D forte / D-Calsor / Recikalc-D forte / generika	viatris / orion pharma
+A	A12	A12A	A12AX			kalciumjon + kolekalciferol	kalciumkarbonat + kolekalciferol	tuggtablett	500 mg + 800 ie	moiety	Calcichew-D3 / Bencium / Kalcipos-D forte / generika	orifarm / viatris / orion pharma
+A	A12	A12B	A12BA	A12BA01	kaliumklorid	kaliumjon	kaliumklorid	depottablett	750 mg		Kaleorid / Kalitabs / generika	karo healthcare
+A	A12	A12B	A12BA	A12BA01	kaliumklorid	kaliumjon	kaliumklorid	depottablett	1000 mg		Kalitabs	karo healthcare
+A	A12	A12B	A12BA	A12BA02	kaliumcitrat	kaliumjon	kaliumcitrat	oral lösning	33 mg/ml	moiety	Kajos	viatris
+A	A12	A12C	A12CA	A12CA01	natriumklorid	natriumjon	natriumklorid	filmdragerad tablett	500 mg	api	generika	
+A	A12	A12C	A12CA	A12CA01	natriumklorid	natriumjon	natriumklorid	kapsel, hård	500 mg	api	generika	
+A	A12	A12C	A12CB	A12CB01	zinksulfat	zinkjon, tvåvärd	zinksulfat, vattenfri	brustablett	45 mg	moiety	Solvezink	karo
+B	B01	B01A	B01AA	B01AA03	warfarin	warfarin	warfarinnatrium	tablett	2,5 mg	api	Waran / generika	orifarm generics
+B	B01	B01A	B01AB	B01AB01	heparin	heparin	heparinnatrium	injektionsvätska	100 ie/ml	moiety	generika	
+B	B01	B01A	B01AB	B01AB01	heparin	heparin	heparinnatrium	injektionsvätska	5000 ie/ml	moiety	generika	
+B	B01	B01A	B01AB	B01AB02	antitrombin iii	antitrombin iii	antitrombin iii, humant	injektionsvätska	50 ie/ml		Atenativ / generika	octapharma nordic
+B	B01	B01A	B01AB	B01AB04	dalteparin	dalteparin	dalteparinnatrium	injektionsvätska	2500 ie/ml	moiety	Fragmin	pfizer
+B	B01	B01A	B01AB	B01AB04	dalteparin	dalteparin	dalteparinnatrium	injektionsvätska i förfylld spruta	2500 ie/dos	moiety	Fragmin	pfizer
+B	B01	B01A	B01AB	B01AB04	dalteparin	dalteparin	dalteparinnatrium	injektionsvätska i förfylld spruta	5000 ie/dos	moiety	Fragmin	pfizer
+B	B01	B01A	B01AB	B01AB04	dalteparin	dalteparin	dalteparinnatrium	injektionsvätska i förfylld spruta	7500 ie/dos	moiety	Fragmin	pfizer
+B	B01	B01A	B01AB	B01AB04	dalteparin	dalteparin	dalteparinnatrium	injektionsvätska i förfylld spruta	10000 ie/dos	moiety	Fragmin	pfizer
+B	B01	B01A	B01AB	B01AB04	dalteparin	dalteparin	dalteparinnatrium	injektionsvätska i förfylld spruta	12500 ie/dos	moiety	Fragmin	pfizer
+B	B01	B01A	B01AB	B01AB04	dalteparin	dalteparin	dalteparinnatrium	injektionsvätska i förfylld spruta	15000 ie/dos	moiety	Fragmin	pfizer
+B	B01	B01A	B01AB	B01AB04	dalteparin	dalteparin	dalteparinnatrium	injektionsvätska i förfylld spruta	18000 ie/dos	moiety	Fragmin	pfizer
+B	B01	B01A	B01AB	B01AB04	dalteparin	dalteparin	dalteparinnatrium	injektionsvätska i förfylld spruta	25000 ie/dos	moiety	Fragmin	pfizer
+B	B01	B01A	B01AB	B01AB05	enoxaparin	enoxaparin	enoxaparinnatrium	injektionsvätska	10000 ie/ml	moiety	Klexane	sanofi
+B	B01	B01A	B01AB	B01AB05	enoxaparin	enoxaparin	enoxaparinnatrium	injektionsvätska i förfylld spruta	2000 ie/dos	moiety	Klexane / generika	sanofi
+B	B01	B01A	B01AB	B01AB05	enoxaparin	enoxaparin	enoxaparinnatrium	injektionsvätska i förfylld spruta	4000 ie/dos	moiety	Klexane / generika	sanofi
+B	B01	B01A	B01AB	B01AB05	enoxaparin	enoxaparin	enoxaparinnatrium	injektionsvätska i förfylld spruta	6000 ie/dos	moiety	Klexane / generika	sanofi
+B	B01	B01A	B01AB	B01AB05	enoxaparin	enoxaparin	enoxaparinnatrium	injektionsvätska i förfylld spruta	8000 ie/dos	moiety	Klexane / generika	sanofi
+B	B01	B01A	B01AB	B01AB05	enoxaparin	enoxaparin	enoxaparinnatrium	injektionsvätska i förfylld spruta	10000 ie/dos	moiety	Klexane / generika	sanofi
+B	B01	B01A	B01AB	B01AB05	enoxaparin	enoxaparin	enoxaparinnatrium	injektionsvätska i förfylld spruta	12000 ie/dos	moiety	Klexane	sanofi
+B	B01	B01A	B01AB	B01AB05	enoxaparin	enoxaparin	enoxaparinnatrium	injektionsvätska i förfylld spruta	15000 ie/dos	moiety	Klexane	sanofi
+B	B01	B01A	B01AB	B01AB10	tinzaparin	tinzaparin	tinzaparinnatrium	injektionsvätska	10000 ie/ml	api	Innohep	leo pharma
+B	B01	B01A	B01AB	B01AB10	tinzaparin	tinzaparin	tinzaparinnatrium	injektionsvätska	20000 ie/ml	api	Innohep	leo pharma
+B	B01	B01A	B01AB	B01AB10	tinzaparin	tinzaparin	tinzaparinnatrium	injektionsvätska i förfylld spruta	2500 ie/dos	api	Innohep	leo pharma
+B	B01	B01A	B01AB	B01AB10	tinzaparin	tinzaparin	tinzaparinnatrium	injektionsvätska i förfylld spruta	3500 ie/dos	api	Innohep	leo pharma
+B	B01	B01A	B01AB	B01AB10	tinzaparin	tinzaparin	tinzaparinnatrium	injektionsvätska i förfylld spruta	4500 ie/dos	api	Innohep	leo pharma
+B	B01	B01A	B01AB	B01AB10	tinzaparin	tinzaparin	tinzaparinnatrium	injektionsvätska i förfylld spruta	8000 ie/dos	api	Innohep	leo pharma
+B	B01	B01A	B01AB	B01AB10	tinzaparin	tinzaparin	tinzaparinnatrium	injektionsvätska i förfylld spruta	10000 ie/dos	api	Innohep	leo pharma
+B	B01	B01A	B01AB	B01AB10	tinzaparin	tinzaparin	tinzaparinnatrium	injektionsvätska i förfylld spruta	12000 ie/dos	api	Innohep	leo pharma
+B	B01	B01A	B01AB	B01AB10	tinzaparin	tinzaparin	tinzaparinnatrium	injektionsvätska i förfylld spruta	14000 ie/dos	api	Innohep	leo pharma
+B	B01	B01A	B01AB	B01AB10	tinzaparin	tinzaparin	tinzaparinnatrium	injektionsvätska i förfylld spruta	16000 ie/dos	api	Innohep	leo pharma
+B	B01	B01A	B01AB	B01AB10	tinzaparin	tinzaparin	tinzaparinnatrium	injektionsvätska i förfylld spruta	18000 ie/dos	api	Innohep	leo pharma
+B	B01	B01A	B01AC	B01AC04	klopidogrel	klopidogrel	klopidogrelvätesulfat	fildragerad tablett	75 mg	moiety	Plavix / generika	sanofi
+B	B01	B01A	B01AC	B01AC04	klopidogrel	klopidogrel	klopidogrelvätesulfat	fildragerad tablett	300 mg	moiety	Plavix / generika	sanofi
+B	B01	B01A	B01AC	B01AC04	klopidogrel	klopidogrel	klopidogrelbesilat	fildragerad tablett	75 mg	moiety	Grepid / generika	orifarm
+B	B01	B01A	B01AC	B01AC04	klopidogrel	klopidogrel	klopidogrelhydroklorid	fildragerad tablett	75 mg	moiety	Cloriocard / generika	sandoz
+B	B01	B01A	B01AC	B01AC06	acetylsalicylsyra	acetylsalicylsyra	acetylsalicylsyra	tablett	75 mg		Trombyl / generika	pfizer
+B	B01	B01A	B01AC	B01AC06	acetylsalicylsyra	acetylsalicylsyra	acetylsalicylsyra	tablett	160 mg		Trombyl / generika	pfizer
+B	B01	B01A	B01AC	B01AC07	dipyridamol	dipyridamol	dipyridamol	depotkapsel, hård	200 mg		generika	
+B	B01	B01A	B01AC	B01AC16	eptifibatid	eptifibatid	eptifibatid	infusionsvätska	0,75 mg/ml		INTEGRILIN / generika	glaxosmithkline
+B	B01	B01A	B01AC	B01AC16	eptifibatid	eptifibatid	eptifibatid	infusionsvätska	2 mg/ml		INTEGRILIN / generika	glaxosmithkline
+B	B01	B01A	B01AC	B01AC17	tirofiban	tirofiban	tirofibanhydroklorid	infusionsvätska	50 mikrog/ml	api	Aggrastat	abcur
+B	B01	B01A	B01AC	B01AC22	prasugrel	prasugrel	prasugrel	tablett	5 mg		generika	
+B	B01	B01A	B01AC	B01AC22	prasugrel	prasugrel	prasugrel	tablett	10 mg		generika	
+B	B01	B01A	B01AC	B01AC22	prasugrel	prasugrel	prasugrelbesilat	tablett	5 mg		generika	
+B	B01	B01A	B01AC	B01AC22	prasugrel	prasugrel	prasugrelbesilat	tablett	10 mg		generika	
+B	B01	B01A	B01AC	B01AC22	prasugrel	prasugrel	prasugrelhydroklorid	tablett	5 mg		Efient	kurantis
+B	B01	B01A	B01AC	B01AC22	prasugrel	prasugrel	prasugrelhydroklorid	tablett	10 mg		Efient	kurantis
+B	B01	B01A	B01AC	B01AC24	tikagrelor	tikagrelor	tikagrelor	filmdragerad tablett	60 mg		Brilique / generika	astrazeneca
+B	B01	B01A	B01AC	B01AC24	tikagrelor	tikagrelor	tikagrelor	filmdragerad tablett	90 mg		Brilique / generika	astrazeneca
+B	B01	B01A	B01AC	B01AC24	tikagrelor	tikagrelor	tikagrelor	munsönderfallande tablett	90 mg		Brilique	astrazeneca
+B	B01	B01A	B01AC	B01AC25	kangrelor	kangrelor	kangrelortetranatrium	injektionsvätska	50 mg/ml	moiety	Kengrexal	chiesi pharma
+B	B01	B01A	A01AD	B01AD02	alteplas	alteplas	alteplas	injektionsvätska	2 mg/ml		Actilyse	boehringer ingelheim
+B	B01	B01A	A01AD	B01AD11	tenekteplas	tenekteplas	tenekteplas	injektionsvätska	5 mg/ml		Metalyse	boehringer ingelheim
+B	B01	B01A	A01AE	B01AE07	dabigatranetexilat	dabigatran	dabigatranetexilat	kapsel, hård	75 mg	api	Pradaxa, generika	boehringer ingelheim
+B	B01	B01A	A01AE	B01AE07	dabigatranetexilat	dabigatran	dabigatranetexilat	kapsel, hård	110 mg	api	Pradaxa, generika	boehringer ingelheim
+B	B01	B01A	A01AE	B01AE07	dabigatranetexilat	dabigatran	dabigatranetexilat	kapsel, hård	150 mg	api	Pradaxa, generika	boehringer ingelheim
+B	B01	B01A	A01AE	B01AE07	dabigatranetexilat	dabigatran	dabigatranetexilat	granulat	20 mg	api	Pradaxa	boehringer ingelheim
+B	B01	B01A	A01AE	B01AE07	dabigatranetexilat	dabigatran	dabigatranetexilat	granulat	30 mg	api	Pradaxa	boehringer ingelheim
+B	B01	B01A	A01AE	B01AE07	dabigatranetexilat	dabigatran	dabigatranetexilat	granulat	40 mg	api	Pradaxa	boehringer ingelheim
+B	B01	B01A	A01AE	B01AE07	dabigatranetexilat	dabigatran	dabigatranetexilat	granulat	50 mg	api	Pradaxa	boehringer ingelheim
+B	B01	B01A	A01AE	B01AE07	dabigatranetexilat	dabigatran	dabigatranetexilat	granulat	110 mg	api	Pradaxa	boehringer ingelheim
+B	B01	B01A	A01AE	B01AE07	dabigatranetexilat	dabigatran	dabigatranetexilat	granulat	150 mg	api	Pradaxa	boehringer ingelheim
+B	B01	B01A	A01AF	B01AF01	rivaroxaban	rivaroxaban	rivaroxaban	filmdragerad tablett	2,5 mg		Xarelto, generika	bayer
+B	B01	B01A	A01AF	B01AF01	rivaroxaban	rivaroxaban	rivaroxaban	filmdragerad tablett	10 mg		Xarelto	bayer
+B	B01	B01A	A01AF	B01AF01	rivaroxaban	rivaroxaban	rivaroxaban	filmdragerad tablett	15 mg		Xarelto	bayer
+B	B01	B01A	A01AF	B01AF01	rivaroxaban	rivaroxaban	rivaroxaban	filmdragerad tablett	20 mg		Xarelto	bayer
+B	B01	B01A	A01AF	B01AF01	rivaroxaban	rivaroxaban	rivaroxaban	kapsel, hård	15 mg		generika	
+B	B01	B01A	A01AF	B01AF01	rivaroxaban	rivaroxaban	rivaroxaban	kapsel, hård	20 mg		generika	
+B	B01	B01A	A01AF	B01AF01	rivaroxaban	rivaroxaban	rivaroxaban	oral suspension	1 mg/ml		Pradaxa	bayer
+B	B01	B01A	A01AF	B01AF02	apixaban	apixaban	apixaban	filmdragerad tablett	2,5 mg		Eliquis	bristol-myers squibb
+B	B01	B01A	A01AF	B01AF02	edoxaban	edoxaban	edoxabantosilatmonohydrat	filmdragerad tablett	15 mg	moiety	Lixiana	organon
+B	B01	B01A	A01AX	B01AX05	fondaparinux	fondaparinux	fondaparinuxnatrium	injektionsvätska i förfylld spruta	5 mg/ml	api	Arixtra	viatris
+B	B02	B02A	B02AA	B02AA02	tranexamsyra	tranexamsyra	tranexamsyra	filmdragerad tablett	500 mg		Cyklokapron, generika	viatris
+B	B02	B02A	B02AA	B02AA02	tranexamsyra	tranexamsyra	tranexamsyra	brustablett	1 g		Cyklokapron	viatris
+B	B02	B02A	B02AA	B02AA02	tranexamsyra	tranexamsyra	tranexamsyra	granulat	1 g		Nexag	campuspharma
+B	B02	B02A	B02AA	B02AA02	tranexamsyra	tranexamsyra	tranexamsyra	oral lösning	100 mg/ml		generika	
+B	B02	B02A	B02AA	B02AA02	tranexamsyra	tranexamsyra	tranexamsyra	injektionsvätska	10 mg/ml		Tranexkabi	fresenius kabi
+B	B02	B02A	B02AA	B02AA02	tranexamsyra	tranexamsyra	tranexamsyra	injektionsvätska	100 mg/ml		Cyklokapron, Pilexam, Statraxen, generika	medartuum, orifarm generics, campuspharma
+												
+												
+												
+												
+												
+												

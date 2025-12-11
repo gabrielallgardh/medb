@@ -1,13 +1,13 @@
 concept-type_id	concept-type_label	concept-type_descr	concept-type_epistem	concept_type_ontol	"acute unilateral limb weakness, movement correlated rotatory vertigo, chest pain on exertion, subacute cognitive decline, intrusive suicidal thoughts without plan"" "
+STRCT	biological-structure	material aspect of a biological entity		physical-matter	hepatocyte / Escherichia coli O157-H7 / alveolar septum
+SITE	biological-site	immaterial regions on the statistical atlas of a biological structure		region	
+CHEM	chemical-substance	chemically identifiable substances		physical-matter	
+EXPO	exposure / behaviour / state	exposure not intended to cause favourable outcome		process	smoking duration >10 yrs / ≥20 pack-years / smoking cessation ≤15 years ago / 10 cigs per day
 SYMT	symptoms	phenomenological consequences of potential illness	testimony	patient-phenomenon	acute unilateral limb weakness | chest pain on exertion | subacute cognitive decline
-DIAG	diagnosis	label for communication, management and prognostication	reasoning	information	type 2 diabetes mellitus | acute ischemic stroke, left MCA territory | community-acquired pneumonia
 INVE	investigation	method of generating findings		process	non-contrast CT brain | 12-lead resting ECG | 48-hour ambulatiry blood pressure monitoring
-ANA	analyte	measurement targeted quantity		measurement-target	systolic arterial blood pressure | plasma troponin-t concentration | plasma sodium concentration
+ANAL	analyte	measurement targeted quantity		measurement-target	systolic arterial blood pressure | plasma troponin-t concentration | plasma sodium concentration
 FIND	finding	assertions guiding decision making	measurement	information	acute right brachifacial paresis | no hemorrhage on CT brain | Broca's aphasia 
 CDSS	clinical-decision-support-systems	decision-making instruments	empiricism / machine-learning	information	NIH Stroke Scale | HEART Score | National Early Warning Score 2 
+DIAG	diagnosis	label for communication, management and prognostication	reasoning	information	type 2 diabetes mellitus | acute ischemic stroke, left MCA territory | community-acquired pneumonia
 MGMT	management / intervention / regimen	proximal action of changing outcome probalbility distribution		process	
-CHEM	chemical-substance	chemically identifiable substances		physical-matter	
 DRUG	drug-product	formula intended for administration		physical-matter	
-SITE	biological-site	immaterial regions on the statistical atlas of a biological structure		region	
-STRCT	biological-structure	material aspect of a biological entity		physical-matter	hepatocyte / Escherichia coli O157-H7 / alveolar septum
-EXPO	exposure / behaviour / state	exposure not intended to cause favourable outcome		process	smoking duration >10 yrs / ≥20 pack-years / smoking cessation ≤15 years ago / 10 cigs per day
