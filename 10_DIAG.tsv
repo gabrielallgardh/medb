@@ -1,8 +1,8 @@
 primary_cluster_id			canoical-diagnoses			preferred-term	ICD-11												
 C0_CONGEN			NPF / NEC / klinisk-genetik			diseases of the nervous system	08												
-C1_CARDIOMET			HT / DM / obesitas / IHD / stroke / CKD / MI / BPH / PCOS			headache disorders	08												
+C1_CARDIOMET			HT / DM / obesitas / IHD / stroke / CKD / MI / BPH / PCOS			headache disorders	08
 	11_cerebrovascular-diseases																		
-		11.00 tia																	
+		11.00 tia							
 		11.02 amaurosis fugax																	
 		11.04 tia, recidiverande																	
 		11.06 tia i karotisområdet																	
@@ -55,24 +55,4 @@ C5_FRAILTY			demens / fall / frailty
 C6_AUTOIMMUNE			RA / 				8												
 C7_CANCER			MM / 				8												
 C8_INFECTION																			
-C9_TRAUMA			intox / 																
-																			
-																			
-																			
-																			
-																			
-																			
-																			
-																			
-																			
-																			
-																			
-																			
-																			
-																			
-																			
-																			
-																			
-																			
-																			
-																			
+C9_TRAUMA			intox /

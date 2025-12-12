@@ -1,0 +1,224 @@
+@prefix : <http://www.semanticweb.org/gabrielallgardh/ontologies/2025/11/untitled-ontology-2/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://www.semanticweb.org/gabrielallgardh/ontologies/2025/11/untitled-ontology-2/> .
+
+<http://www.semanticweb.org/gabrielallgardh/ontologies/2025/11/untitled-ontology-2> rdf:type owl:Ontology .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://www.semanticweb.org/gabrielallgardh/ontologies/2025/11/untitled-ontology-2#hasObject
+:hasObject rdf:type owl:ObjectProperty ;
+           rdfs:subPropertyOf owl:topObjectProperty ;
+           rdfs:domain :Statement ;
+           rdfs:range :Entity .
+
+
+###  http://www.semanticweb.org/gabrielallgardh/ontologies/2025/11/untitled-ontology-2#hasPredicate
+:hasPredicate rdf:type owl:ObjectProperty ;
+              rdfs:subPropertyOf owl:topObjectProperty ;
+              rdfs:domain :Statement ;
+              rdfs:range :Predicate .
+
+
+###  http://www.semanticweb.org/gabrielallgardh/ontologies/2025/11/untitled-ontology-2#hasSource
+:hasSource rdf:type owl:ObjectProperty ;
+           rdfs:subPropertyOf owl:topObjectProperty ;
+           rdfs:domain :Statement ;
+           rdfs:range :Source .
+
+
+###  http://www.semanticweb.org/gabrielallgardh/ontologies/2025/11/untitled-ontology-2#hasSubject
+:hasSubject rdf:type owl:ObjectProperty ;
+            rdfs:subPropertyOf owl:topObjectProperty ;
+            rdfs:domain :Statement ;
+            rdfs:range :Entity .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://www.semanticweb.org/gabrielallgardh/ontologies/2025/11/untitled-ontology-2#hasValueNum
+:hasValueNum rdf:type owl:DatatypeProperty ;
+             rdfs:subPropertyOf owl:topDataProperty ;
+             rdfs:domain :Statement ;
+             rdfs:range xsd:decimal .
+
+
+###  http://www.semanticweb.org/gabrielallgardh/ontologies/2025/11/untitled-ontology-2#hasValueText
+:hasValueText rdf:type owl:DatatypeProperty ;
+              rdfs:subPropertyOf owl:topDataProperty ;
+              rdfs:domain :Statement ;
+              rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/gabrielallgardh/ontologies/2025/11/untitled-ontology-2#isQuizzable
+:isQuizzable rdf:type owl:DatatypeProperty ;
+             rdfs:subPropertyOf owl:topDataProperty ;
+             rdfs:domain :Statement ;
+             rdfs:range xsd:boolean .
+
+
+###  http://www.w3.org/2002/07/owl#topDataProperty
+owl:topDataProperty rdfs:domain :Statement ;
+                    rdfs:range xsd:string .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://www.semanticweb.org/gabrielallgardh/ontologies/2025/11/untitled-ontology-2#AdverseEvent
+:AdverseEvent rdf:type owl:Class ;
+              rdfs:subClassOf :Entity .
+
+
+###  http://www.semanticweb.org/gabrielallgardh/ontologies/2025/11/untitled-ontology-2#Entity
+:Entity rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/gabrielallgardh/ontologies/2025/11/untitled-ontology-2#Indication
+:Indication rdf:type owl:Class ;
+            rdfs:subClassOf :Entity .
+
+
+###  http://www.semanticweb.org/gabrielallgardh/ontologies/2025/11/untitled-ontology-2#Interactor
+:Interactor rdf:type owl:Class ;
+            rdfs:subClassOf :Entity .
+
+
+###  http://www.semanticweb.org/gabrielallgardh/ontologies/2025/11/untitled-ontology-2#Predicate
+:Predicate rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/gabrielallgardh/ontologies/2025/11/untitled-ontology-2#Product
+:Product rdf:type owl:Class ;
+         rdfs:subClassOf :Entity .
+
+
+###  http://www.semanticweb.org/gabrielallgardh/ontologies/2025/11/untitled-ontology-2#Regimen
+:Regimen rdf:type owl:Class ;
+         rdfs:subClassOf :Entity .
+
+
+###  http://www.semanticweb.org/gabrielallgardh/ontologies/2025/11/untitled-ontology-2#Source
+:Source rdf:type owl:Class ;
+        rdfs:subClassOf :Entity .
+
+
+###  http://www.semanticweb.org/gabrielallgardh/ontologies/2025/11/untitled-ontology-2#Statement
+:Statement rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/gabrielallgardh/ontologies/2025/11/untitled-ontology-2#Substance
+:Substance rdf:type owl:Class ;
+           rdfs:subClassOf :Entity .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  http://www.semanticweb.org/gabrielallgardh/ontologies/2025/11/untitled-ontology-2#Clopidogrel
+:Clopidogrel rdf:type owl:NamedIndividual ,
+                      :Substance ;
+             rdfs:label "clopidogrel"@en ,
+                        "klopidogrel"@sv .
+
+
+###  http://www.semanticweb.org/gabrielallgardh/ontologies/2025/11/untitled-ontology-2#Clopidogrel_hydrogen_sulfate
+:Clopidogrel_hydrogen_sulfate rdf:type owl:NamedIndividual ,
+                                       :Substance ;
+                              rdfs:label "clopidogrel hydrogen sulfate"@en ,
+                                         "klopidogrelvätesulfat"@sv .
+
+
+###  http://www.semanticweb.org/gabrielallgardh/ontologies/2025/11/untitled-ontology-2#Plavix_75mg_tablet
+:Plavix_75mg_tablet rdf:type owl:NamedIndividual ,
+                             :Product ;
+                    rdfs:label "Plavix 75 mg film-coated tablet"@en ,
+                               "Plavix 75 mg filmdragerad tablett"@sv .
+
+
+###  http://www.semanticweb.org/gabrielallgardh/ontologies/2025/11/untitled-ontology-2#S010_Plavix75_labeled_moiety
+:S010_Plavix75_labeled_moiety rdf:type owl:NamedIndividual ,
+                                       :Statement ;
+                              :hasObject :Clopidogrel ;
+                              :hasSource :SmPC_Clopidogrel_2025 ;
+                              :hasSubject :Plavix_75mg_tablet ;
+                              :hasValueNum 75 ;
+                              :hasValueText "mg (styrka angiven som klopidogrel, aktiv moiety, per tablett)"@sv ;
+                              :isQuizzable "true"^^xsd:boolean .
+
+
+###  http://www.semanticweb.org/gabrielallgardh/ontologies/2025/11/untitled-ontology-2#S011_Plavix75_contains_salt
+:S011_Plavix75_contains_salt rdf:type owl:NamedIndividual ,
+                                      :Statement ;
+                             :hasObject :Clopidogrel_hydrogen_sulfate ;
+                             :hasSource :SmPC_Clopidogrel_2025 ;
+                             :hasSubject :Plavix_75mg_tablet ;
+                             :hasValueNum 97.875 ;
+                             :hasValueText "mg (motsvarar 75 mg klopidogrel, per tablett)" ;
+                             :isQuizzable "true"^^xsd:boolean .
+
+
+###  http://www.semanticweb.org/gabrielallgardh/ontologies/2025/11/untitled-ontology-2#S012_Clopidogrel_has_salt_form
+:S012_Clopidogrel_has_salt_form rdf:type owl:NamedIndividual ,
+                                         :Statement ;
+                                :hasObject :Clopidogrel_hydrogen_sulfate ;
+                                :hasSource :SmPC_Clopidogrel_2025 ;
+                                :hasSubject :Clopidogrel ;
+                                :hasValueText "salt form"@en ,
+                                              "saltform"@sv ;
+                                :isQuizzable "true"^^xsd:boolean .
+
+
+###  http://www.semanticweb.org/gabrielallgardh/ontologies/2025/11/untitled-ontology-2#SmPC_Clopidogrel_2025
+:SmPC_Clopidogrel_2025 rdf:type owl:NamedIndividual ,
+                                :Source .
+
+
+###  http://www.semanticweb.org/gabrielallgardh/ontologies/2025/11/untitled-ontology-2#containsSaltAmount
+:containsSaltAmount rdf:type owl:NamedIndividual ,
+                             :Predicate .
+
+
+###  http://www.semanticweb.org/gabrielallgardh/ontologies/2025/11/untitled-ontology-2#hasActiveMoiety
+:hasActiveMoiety rdf:type owl:NamedIndividual ,
+                          :Predicate .
+
+
+###  http://www.semanticweb.org/gabrielallgardh/ontologies/2025/11/untitled-ontology-2#labeledStrength
+:labeledStrength rdf:type owl:NamedIndividual ,
+                          :Predicate .
+
+
+###  http://www.semanticweb.org/gabrielallgardh/ontologies/2025/11/untitled-ontology-2#stmt_plavix_moiety_75mg
+:stmt_plavix_moiety_75mg rdf:type owl:NamedIndividual ,
+                                  :Statement ;
+                         :hasObject :Clopidogrel ;
+                         :hasPredicate :hasActiveMoiety ;
+                         :hasSubject :Plavix_75mg_tablet ;
+                         :hasValueNum 75 ;
+                         :hasValueText "mg" ;
+                         :isQuizzable "true"^^xsd:boolean .
+
+
+###  http://www.semanticweb.org/gabrielallgardh/ontologies/2025/11/untitled-ontology-2#stmt_plavix_salt_97_875mg
+:stmt_plavix_salt_97_875mg rdf:type owl:NamedIndividual ,
+                                    :Statement ;
+                           :hasObject :Clopidogrel_hydrogen_sulfate ;
+                           :hasPredicate :containsSaltAmount ;
+                           :hasSubject :Plavix_75mg_tablet ;
+                           :hasValueNum 97.875 ;
+                           :hasValueText "mg" ;
+                           :isQuizzable "false"^^xsd:boolean .
+
+
+###  Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi
